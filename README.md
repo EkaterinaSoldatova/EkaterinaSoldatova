@@ -10,7 +10,7 @@ My name is Katerina and I'm a QA Engineer. I specialize in testing web (back+fro
 
 ---
 ### 🛠 Tools and languages
-![YouTrack](https://img.shields.io/badge/-Youtrack-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
+![YouTrack](https://img.shields.io/badge/-Youtrack-090909?style=for-the-badge&logo=youtrack&logoColor=47C5FB)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/katesoldatova)
 [![Gmail](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=gmail&logoColor=007BB6)](mailto:kathrinsoldatova@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/katerina-soldatova/)
