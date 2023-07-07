@@ -1,16 +1,22 @@
 ### Hi there 👋
+---
+My name is Katerina and I'm a QA Engineer. I specialize in testing web (back+front) and mobile applications. Here I share my works completed during my studies and internship.
 
-<!--
-**EkaterinaSoldatova/EkaterinaSoldatova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Some facts about me
+- 
+- 
+- 
+- 
 
-Here are some ideas to get you started:
+---
+### 🛠 Tools and languages
+![YouTrack] (https://img.shields.io/badge/YouTrack-090989?style=for-the-badge&logo=youtrack&logoColor=47C5FB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📫 Сontact me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/katesoldatova)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/katerina-soldatova/)
+
+[![Gmail](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=gmail&logoColor=007BB6)](mailto:kathrinsoldatova@gmail.com)
+
