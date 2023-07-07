@@ -16,7 +16,7 @@ My name is Katerina and I'm a QA Engineer. I specialize in testing web (back+fro
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/katerina-soldatova/)
 ---
 ### 📫 Сontact me
- <div id="badges" style="text-align: center">
+ <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/katerina-soldatova/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
