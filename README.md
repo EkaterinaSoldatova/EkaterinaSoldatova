@@ -30,27 +30,28 @@ Contacts:
 
 ### 💼 Tools and Languages
 ---
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=white&color=f48024)
-![DevTools](https://img.shields.io/badge/Tools-DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=white&color=4AB197)
-![SoapUI](https://img.shields.io/badge/Tools-SoapUI-090909?style=for-the-badge&logo=soapui&logoColor=white&color=4AB197)
-![MySQL](https://img.shields.io/badge/Code-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=white&color=4AB197)
-![MongoDB](https://img.shields.io/badge/Code-MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=white&color=4AB197)
-![Jira](https://img.shields.io/badge/Tools-Jira-090909?style=for-the-badge&logo=jira&logoColor=white&color=4AB197)
-![Confluence](https://img.shields.io/badge/Tools-Confluence-090909?style=for-the-badge&logo=Confluence&logoColor=white&color=4AB197)
-![GitHub](https://img.shields.io/badge/Tools-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=white&color=4AB197)
-![gnubash](https://img.shields.io/badge/Tools-bash-090909?style=for-the-badge&logo=gnubash&logoColor=white&color=4AB197)
-![Visualstudiocode](https://img.shields.io/badge/Tools-VSCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=4AB197)
-![YouTrack](https://img.shields.io/badge/Tools-Youtrack-090909?style=for-the-badge&logo=jetbrains&logoColor=white&color=4AB197)
-![TestRail](https://img.shields.io/badge/Tools-TestRail-090909?style=for-the-badge&logo=testrail&logoColor=white&color=4AB197)
-![Qase](https://img.shields.io/badge/Tools-Qase-090909?style=for-the-badge&logo=qase&logoColor=white&color=4AB197)
-![Test-IT](https://img.shields.io/badge/Tools-TestIT-090909?style=for-the-badge&logo=testit&logoColor=white&color=4AB197)
-![androidstudio](https://img.shields.io/badge/Tools-androidstudio-090909?style=for-the-badge&logo=androidstudio&logoColor=white&color=4AB197)
-![charlesproxy](https://img.shields.io/badge/Tools-charlesproxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=white&color=4AB197)
-![html5](https://img.shields.io/badge/Code-html-090909?style=for-the-badge&logo=html5&logoColor=white&color=4AB197)
-![javascript](https://img.shields.io/badge/Code-javascript-090909?style=for-the-badge&logo=javascript&logoColor=white&color=4AB197)
+<img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.svg" title="Postman" alt="postman" width="40" height="40"/>
+<img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="DevTools" alt="DevTools" width="40" height="40"/>
+<img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="soapui" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="mysql" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="Jira" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/confluence--v2.png" title="Confluence" alt="mongodb" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="YouTrack" alt="Youtrack" width="40" height="40"/> <img src="https://docs.testit.software/images/testit_logo_icon.png" title="Test-IT" alt="Test-IT" width="40" height="40"/>
+<img src="https://luna1.co/eb0187.png" title="Qase" alt="Qase" width="40" height="40"/> 
+<img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="TestRail" alt="tetstrail" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="Bash" alt="bash" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VScode" alt="vscode" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android-Studio" alt="Android-Studio" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles-Proxy" alt="charles-proxy" width="40" height="40"/>
+<img src="https://img.icons8.com/fluency/48/html-5.png" title="HTML" alt="HTML" width="40" height="40"/>
+<img src="https://img.icons8.com/fluency/48/javascript.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 
+<br>
 
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EkaterinaSoldatova)
+>
 
 
 
