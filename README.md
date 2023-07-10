@@ -1,5 +1,5 @@
 ### 👋 Hi there 
---- 
+---
 My name is Katerina and I'm a QA Engineer. I specialize in testing web (back+front) and mobile applications. Here I share my works completed during my studies and internship.
 
 ### 👨‍💻 Some facts about me
@@ -10,11 +10,27 @@ My name is Katerina and I'm a QA Engineer. I specialize in testing web (back+fro
 - Transitioned into the field of software testing to support and ensure the quality of software products
 - Studying automation testing on JS in my free time
 
-Want to know more about my experience? [Check out my resume.] ()
+Want to know more about my experience? [Check out my resume.](https://github.com/EkaterinaSoldatova/Resume.git) 
+
+My portfolio items are available on [GitHub](https://github.com/EkaterinaSoldatova#-test-artifacts)
+
+Contacts: 
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/katerina-soldatova/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EMail-informational?style=flat&logo=gmail&logoColor=white&color=ea4335)](mailto:kathrinsoldatova@gmail.com) 
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Message-informational?style=flat&logo=telegram&logoColor=white&color=34a9e5)](https://t.me/katesoldatova) 
+
+### 📁 Test Artifacts
+---
+- Web Testing
+- Testing API
+- Mobile testing
+- Testcase
+- Checklist 
 
 ### 💼 Tools and Languages
 ---
-![Postman](https://img.shields.io/badge/Tools-Postman-090909?style=for-the-badge&logo=postman&logoColor=white&color=4AB197)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=white&color=f48024)
 ![DevTools](https://img.shields.io/badge/Tools-DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=white&color=4AB197)
 ![SoapUI](https://img.shields.io/badge/Tools-SoapUI-090909?style=for-the-badge&logo=soapui&logoColor=white&color=4AB197)
 ![MySQL](https://img.shields.io/badge/Code-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=white&color=4AB197)
@@ -33,29 +49,8 @@ Want to know more about my experience? [Check out my resume.] ()
 ![html5](https://img.shields.io/badge/Code-html-090909?style=for-the-badge&logo=html5&logoColor=white&color=4AB197)
 ![javascript](https://img.shields.io/badge/Code-javascript-090909?style=for-the-badge&logo=javascript&logoColor=white&color=4AB197)
 
-### 📁 Test Artifacts
---- 
-- Web Testing
-- Testing API
-- Mobile testing
-- Testcase
-- Checklist
 
-<br>
 
-<div id="badges" align="center">
-    Let's keep in touch! 
-    <br><br>
-    <a href="https://www.linkedin.com/in/katerina-soldatova/" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/linkedin.png" width="25" height="25" alt="linkedin"/>
-    </a>
-    <a href="https://t.me/katesoldatova" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="25" height="25" alt="telegram"/>
-    </a>
-    <a href="mailto:kathrinsoldatova@gmail.com" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="25" height="25" alt="gmail"/>
-    </a>
 
-  </div>
 
 
