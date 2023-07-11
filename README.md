@@ -22,11 +22,13 @@ Contacts:
 
 ### 📁 Test Artifacts
 ---
-- Web Testing
-- Testing API
+- Test Documentation
+- WebShop Testing
+- [WebApp Testng GURU99](https://github.com/EkaterinaSoldatova/Web_Testing_GURU99.git)
+- API testing
+- [SQL](https://github.com/EkaterinaSoldatova/SQL.git)
 - Mobile testing
-- Testcase
-- Checklist 
+- Git and Bash 
 
 ### 💼 Tools and Languages
 ---
