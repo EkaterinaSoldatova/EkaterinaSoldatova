@@ -22,13 +22,14 @@ Contacts:
 
 ### 📁 Test Artifacts
 ---
-- Test Documentation
-- WebShop Testing
+- [Test Documentation]()
+- [WebShop Testing](https://github.com/EkaterinaSoldatova/WebShop_Testing.git)
 - [WebApp Testng GURU99](https://github.com/EkaterinaSoldatova/Web_Testing_GURU99.git)
-- API testing
+- [API testing](https://github.com/EkaterinaSoldatova/API_Testing.git)
 - [SQL](https://github.com/EkaterinaSoldatova/SQL.git)
-- Mobile testing
-- Git and Bash 
+- [MongoDB](https://github.com/EkaterinaSoldatova/MongoDB)
+- [Mobile testing](https://github.com/EkaterinaSoldatova/Mobile_Testing.git)
+- [Git and Bash](https://github.com/EkaterinaSoldatova/Git_and_Bash.git) 
 
 ### 💼 Tools and Languages
 ---
