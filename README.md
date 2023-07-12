@@ -10,7 +10,7 @@ My name is Katerina and I'm a QA Engineer. I specialize in testing web (back+fro
 - Transitioned into the field of software testing to support and ensure the quality of software products
 - Studying automation testing on JS in my free time
 
-Want to know more about my experience? [Check out my resume.](https://github.com/EkaterinaSoldatova/Resume.git) 
+Want to know more about my experience? [Check out my resume.](https://github.com/EkaterinaSoldatova/Resume/blob/main/CV_Ekaterina_Soldatova_QA_Engineer.pdf) 
 
 My portfolio items are available on [GitHub](https://github.com/EkaterinaSoldatova#-test-artifacts)
 
@@ -24,7 +24,7 @@ Contacts:
 ---
 - [Test Documentation]()
 - [WebShop Testing](https://github.com/EkaterinaSoldatova/WebShop_Testing.git)
-- [WebApp Testng GURU99](https://github.com/EkaterinaSoldatova/Web_Testing_GURU99.git)
+- [WebApp Testing GURU99](https://github.com/EkaterinaSoldatova/Web_Testing_GURU99.git)
 - [API testing](https://github.com/EkaterinaSoldatova/API_Testing.git)
 - [SQL](https://github.com/EkaterinaSoldatova/SQL.git)
 - [MongoDB](https://github.com/EkaterinaSoldatova/MongoDB)
